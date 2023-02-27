@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Keep Learning </h1>
+   <h1> Thankyou, Keep Achievin </h1>
 
 
 </form>
